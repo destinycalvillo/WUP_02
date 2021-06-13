@@ -66,8 +66,10 @@ It appears that more VitC in c52 with an average of 64.4. It also appears that t
 t.test(VitC~Cult,data=veggy)
 ```
 
-Since the p-value is so tiny, we can reject the null hypothesis that these values are different. In other words, this t-test shows that the VitC is different because the chances of getting a result like the one we just explained is astronomically small. 
+Since the p-value is so tiny, we can reject the null hypothesis that these values are different. In other words, this t-test shows that the amount of VitC is different because the chances of getting a result like the one we just explained is astronomically small. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this Write-Up we first did an analysis on which helper file we needed, which ended up being a numerical and categorical file. After we made a box-plot, a table, and did a t-test. We eventually found out that we could reject the null hypothesis. Because the p-values were different, there may not be a relationship between the two. 
